@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\RD Connect\RD Connect\bin\x64\Release\Upload\RD Connect_6.0.2207.0_x64.appx
+SymbolPackage=C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\RD Connect\RD Connect\bin\x64\Release\Upload\RD Connect_6.0.2207.0\RD Connect_6.0.2207.0_x64.appxsym
